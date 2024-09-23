@@ -23,7 +23,8 @@
 }
 
 .header {
-  background-image: url(../img/foto\ header.png);
+  /* background-image: url(../img/foto\ header.png); */
+  background-image: url(../img/imagen-fondo.avif);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -223,7 +224,6 @@
   box-shadow: 0 20px 30px rgba(0, 0, 0, 0.3);
   margin: 10px;
   margin-top: 32px;
-  border: 1px solid #333;
 }
 
 .burger-img {
